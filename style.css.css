@@ -1,0 +1,27 @@
+h1 {color: white;
+background-color: brown;
+text-align: center;
+}
+
+h2 {
+ 
+    text-align: center;
+
+    }
+
+* {
+    margin: 0;
+    padding: 0;
+}
+ button {
+    color:white;
+    align-content: center;
+    background-color: red ;
+ }
+
+
+ 
+ * {
+       background-color: chocolate;
+ }
+
